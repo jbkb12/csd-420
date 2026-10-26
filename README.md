@@ -1,2 +1,2 @@
 # csd-420
-Coursework for CSD 420 Advanced Java Programming at ellevue University
+Coursework for CSD 420 Advanced Java Programming at Bellevue University
