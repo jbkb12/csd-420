@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RecursiveSortDemo",
+            "request": "launch",
+            "mainClass": "RecursiveSortDemo",
+            "projectName": "csd-420_1db6cb46"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "cwd": "${fileDirname}"
+        },
+        {
+            "type": "java",
+            "name": "WordSorter",
+            "request": "launch",
+            "mainClass": "WordSorter",
+            "projectName": "csd-420_1db6cb46",
+            "cwd": "${workspaceFolder}/module-5"
+        },
+        {
+            "type": "java",
+            "name": "WordSorterTest",
+            "request": "launch",
+            "mainClass": "WordSorterTest",
+            "projectName": "csd-420_1db6cb46",
+            "cwd": "${workspaceFolder}/module-5"
+        },
+        {
+            "type": "java",
+            "name": "CardDisplay",
+            "request": "launch",
+            "mainClass": "CardDisplay",
+            "projectName": "csd-420_1db6cb46"
+        }
+    ]
+}
